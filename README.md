@@ -1,5 +1,5 @@
 # Hi, I'm 👋 Imran Hasan
-<img width="920" height="700" alt="image" src="https://github.com/user-attachments/assets/816c1080-b44c-43b5-a868-d5e929f0943a](https://www.canva.com/design/DAGx26KJz3Y/W-7pLKsKHSAT86Ingaa9Yw/edit?utm_content=DAGx26KJz3Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" />
+<img width="920" height="700" alt="image" src="https://www.canva.com/design/DAGx26KJz3Y/CKlpJ-MkdNnFTXHtbofu9A/view?utm_content=DAGx26KJz3Y&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he04915d5e9" />
 
 
 
