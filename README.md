@@ -18,6 +18,8 @@ I'm a full-stack developer passionate about building efficient and scalable appl
 ![Express](https://img.shields.io/badge/Express-%23404d59?style=flat&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=flat&logo=npm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23404B69?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
 
 ## Projects
 - [My Portfolio](https://johnsmith.dev)
