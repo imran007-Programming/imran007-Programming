@@ -24,4 +24,4 @@ I'm a full-stack developer passionate about building efficient and scalable appl
 - [Open Source Contributions](https://github.com/johnsmith?tab=repositories)
 
 ## Contact
-- Email: johnsmith@example.com
+- Email: imranphero@gmail.com
