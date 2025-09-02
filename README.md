@@ -1,7 +1,9 @@
 # Hi, I'm 👋 Imran Hasan
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/816c1080-b44c-43b5-a868-d5e929f0943a" />
+
 
 ## About Me
-I'm a full-stack developer passionate about building efficient and scalable applications. I am from ![Bangladesh Flag](https://www.worldometers.info/img/flags/bd-flag.gif)
+I'm a full-stack developer passionate about building efficient and scalable applications. I am from 
 
 
 
