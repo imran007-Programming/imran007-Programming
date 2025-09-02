@@ -1,5 +1,5 @@
 # Hi, I'm 👋 Imran Hasan
-<img width="920" height="200" alt="image" src="https://github.com/user-attachments/assets/816c1080-b44c-43b5-a868-d5e929f0943a" />
+<img width="920" height="700" alt="image" src="https://github.com/user-attachments/assets/816c1080-b44c-43b5-a868-d5e929f0943a" />
 
 
 ## About Me
