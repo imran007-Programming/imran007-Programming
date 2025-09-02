@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm John Smith 👋
 
-<!--
-**imran007-Programming/imran007-Programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a full-stack developer passionate about building efficient and scalable applications. I specialize in React, Node.js, and Python. When I'm not coding, I enjoy playing guitar and hiking.
 
-Here are some ideas to get you started:
+## Skills
+![React](https://img.shields.io/badge/React-%2300D8FF?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [My Portfolio](https://johnsmith.dev)
+- [Open Source Contributions](https://github.com/johnsmith?tab=repositories)
+
+## Contact
+- Email: johnsmith@example.com
