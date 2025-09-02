@@ -1,7 +1,8 @@
 # Hi, I'm 👋 Imran Hasan
 
 ## About Me
-I'm a full-stack developer passionate about building efficient and scalable applications. I am from ![Bangladesh Flag](https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Bangladesh.svg)
+I'm a full-stack developer passionate about building efficient and scalable applications. I am from ![Bangladesh](https://img.shields.io/badge/From-Bangladesh-%23404B69?style=flat&logo=flag&logoColor=white)
+
 .
 
 ## Skills
