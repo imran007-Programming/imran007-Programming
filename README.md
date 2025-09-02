@@ -4,7 +4,7 @@
 
 
 ## About Me
-’m a full-stack developer who loves bringing ideas to life through code. From front-end design to back-end architecture, I enjoy the challenge of building well-rounded, efficient systems. I specialize in working with modern technologies, creating seamless user experiences, and crafting scalable solutions. I’m always up for solving complex problems and improving my skills, keeping up with the latest trends, and delivering clean, maintainable code. My goal is always to build something that not only works but works well, with a focus on quality, performance, and user satisfaction.
+I am a full-stack developer who loves bringing ideas to life through code. From front-end design to back-end architecture, I enjoy the challenge of building well-rounded, efficient systems. I specialize in working with modern technologies, creating seamless user experiences, and crafting scalable solutions. I’m always up for solving complex problems and improving my skills, keeping up with the latest trends, and delivering clean, maintainable code. My goal is always to build something that not only works but works well, with a focus on quality, performance, and user satisfaction.
 
 
 
