@@ -27,9 +27,6 @@ I am a full-stack developer who loves bringing ideas to life through code. From 
 ![Git](https://img.shields.io/badge/Git-%23F1502F?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
 
-## Projects
-- [My Portfolio](https://johnsmith.dev)
-- [Open Source Contributions](https://github.com/johnsmith?tab=repositories)
 
 ## Contact
 - Email: imranphero@gmail.com
