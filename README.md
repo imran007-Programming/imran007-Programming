@@ -2,8 +2,8 @@
 
 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0AE448&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Developer;Backend+Developer" />
+<h3 align="start">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=0AE448&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+Developer;Backend+Developer" />
 </h3>
 
 <p align="start">
@@ -38,8 +38,8 @@
 
 # 📊 GitHub Stats:
 <p align="start">
-  <img src="https://streak-stats.demolab.com?user=imran007-Programming&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats-ten-sigma-75.vercel.app/api?username=imran007-Programming&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=letter" />
+  <img src="https://streak-stats.demolab.com?user=imran007-Programming&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -71,4 +71,27 @@
 </div>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0AE448&height=100&section=footer&fontSize=0" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0AE448&height=100&section=footer&fontSize=0" />
+</picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=0AE448&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+awesome+together+%F0%9F%9A%80;Feel+free+to+star+%E2%AD%90+any+repo+you+like!" />
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/imran.hasan.305612"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/imran-hasan-399170171/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:imranphero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imran007-Programming&label=Profile%20Views&color=0AE448&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/imran007-Programming">Imran Hasan</a> © 2025</sub>
+</p>
 
