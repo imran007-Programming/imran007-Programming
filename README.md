@@ -37,10 +37,16 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="start">
-  <img src="https://github-readme-stats-ten-sigma-75.vercel.app/api?username=imran007-Programming&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=letter" />
-  <img src="https://streak-stats.demolab.com?user=imran007-Programming&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-ten-sigma-75.vercel.app/api?username=imran007-Programming&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=letter" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=imran007-Programming&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
